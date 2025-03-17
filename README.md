@@ -1,40 +1,26 @@
 # Flames-Game
-🔥 FLAMES Game 🔥
-Find out your relationship destiny! This is a fun Python script that predicts the relationship between two names using the classic FLAMES method.
+# 🔥 FLAMES Game 🔥  
 
-🚀 How It Works
-Enter two names.
-The script removes common letters.
-Counts the remaining characters.
-Uses the FLAMES acronym:
-F → Friendship
-L → Love
-A → Affection
-M → Marriage
-E → Enemy
-S → Sibling
-Reveals your relationship fate! 🎭
-🛠️ Installation & Usage
-Clone this repository or copy the script.
+**Find out your relationship destiny!** This is a fun Python script that predicts the relationship between two names using the classic **FLAMES** method.  
 
-Run the script using Python:
+## 🚀 How It Works  
 
-sh
-Copy
-Edit
-python flames_game.py
-Enter the two names when prompted.
+1. Enter two names.  
+2. The script removes common letters.  
+3. Counts the remaining characters.  
+4. Uses the FLAMES acronym:  
+   - **F** → Friendship  
+   - **L** → Love  
+   - **A** → Affection  
+   - **M** → Marriage  
+   - **E** → Enemy  
+   - **S** → Sibling  
+5. Reveals your relationship fate! 🎭  
 
-Get your result instantly!
+## 🛠️ Installation & Usage  
 
-🎲 Example
-sh
-Copy
-Edit
-Enter first name: Alice
-Enter second name: Bob
-The relationship is: Friendship
-🤔 Want to Improve It?
-Feel free to fork, modify, and make the FLAMES game even better!
+1. Clone this repository or copy the script.  
+2. Run the script using Python:  
 
-💖 Have fun playing! 🔥
+   ```sh
+   python flames_game.py
