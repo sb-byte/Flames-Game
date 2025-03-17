@@ -1,4 +1,3 @@
-# Flames-Game
 # 🔥 FLAMES Game 🔥  
 
 **Find out your relationship destiny!** This is a fun Python script that predicts the relationship between two names using the classic **FLAMES** method.  
